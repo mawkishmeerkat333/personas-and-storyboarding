@@ -30,6 +30,7 @@ hr {
 }
 
 .pattern {
-  background: url(./images/telephone-lines.png) center fixed;
+  /* I've had this picture saved for so long I no longer can find the creator to credit. :( */
+  background: url(./images/telephone-lines.png) center fixed; 
   height: calc(100vh - 56px);
 }
